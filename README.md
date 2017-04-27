@@ -14,8 +14,7 @@ caso o jogador avance até o fim do cenario sem ser atigindo por tiros inimigos 
 Expressões condicionais: utilizados para decisões dentro do game, como por exemplo caso o projetil atinja o jogador 
 ele será derrotado.
 
-Estruturas de repetição: Será utilizado para a movimentação do personagem fazendo ele andar para frente até que enco-
-tre um obstáculo.
+Estruturas de repetição: Será utilizado para a movimentação do personagem fazendo ele andar para frente até que encontre um obstáculo.
 
 Arrays e Matrizes: utilazado para armazenar a posição atual do projetil.
 
